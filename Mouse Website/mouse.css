@@ -1,0 +1,12 @@
+#home{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.card:hover{
+    box-shadow: 0px 0px 24px 6px rgba(65,65,65,0.75);
+-webkit-box-shadow: 0px 0px 24px 6px rgba(65,65,65,0.75);
+-moz-box-shadow: 0px 0px 24px 6px rgba(65,65,65,0.75);
+transition: all 0.4s;
+}
